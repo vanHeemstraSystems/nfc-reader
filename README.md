@@ -1,7 +1,7 @@
 nfc-reader
 # Near-Field-Communications (NFC) Reader
 
-Based on "AS10 Bluetooth NFC Reader" at 
+Based on "AS10 Bluetooth RFID / NFC Reader" at https://www.arkscan.com/product/barcode-scanner/nfc-uhf-rfid-reader/as10-rfid-nfc-reader
 
 ## 100 - Introduction
 
