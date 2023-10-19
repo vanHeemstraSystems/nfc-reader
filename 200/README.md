@@ -2,7 +2,7 @@
 
 - [AS10 Bluetooth NFC Reader](https://www.arkscan.com/product/barcode-scanner/nfc-uhf-rfid-reader/as10-rfid-nfc-reader) ($329.00) from Arkscan, LLC (www.arkscan.com)
 
-![AS10 Wireless RFID Reader (Bluetooth + Memory / Batch + USB)](../images/arkscan-nfc-tag-reader.png)
+![AS10 Wireless RFID Reader (Bluetooth + Memory / Batch + USB)](../images/as10_front1.jpg)
 
 **NOTE**: The AS10 Bluetooth NFC Reader is fully compliant with ISO-14443A, ISO-14443B, ISO-15693, and NFC standards. 
 
