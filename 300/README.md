@@ -2,5 +2,5 @@
 
 ## 100 - Connect the NFC Tag Reader to your iPhone by Bluetooth
 
-[](https://www.youtube.com/watch?v=DHpsBZqIaFE)
+[How to Connect Bluetooth NFC RFID Reader to Smartphone & Tablet for iOS & Android Wireless Interface](https://www.youtube.com/watch?v=DHpsBZqIaFE)
 
