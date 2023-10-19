@@ -6,3 +6,6 @@
 
 Watch this video on YouTube.
 
+## 200 - Quick Guide User NManual
+
+[AS10 RFID NFC Quick Guide User Manual V1](../docs/AS10_RFID_NFC_Quick_Guide_User_Manual_V1.pdf)
